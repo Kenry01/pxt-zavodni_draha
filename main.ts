@@ -39,7 +39,7 @@ function main() {
         startTime = 0;
     basic.showNumber(vysledek)
     radio.sendValue("cas", vysledek)
-    basic.pause(2000)
+    
     }
 }
 
